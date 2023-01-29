@@ -1,0 +1,55 @@
+.header {
+  background-color: #2f5167;
+  color: #fff;
+  height: 160px;
+  padding: 40px;
+}
+.header-logo {
+  float: left;
+  font-size: 50px;
+  padding: 20px 40px;
+}
+.header a {
+  color: #fff;
+  font-size: 20px;
+  padding: 20px 40px;
+}
+.header-list {
+  float: left;
+  padding: 33px 20px;
+}
+.main {
+  padding: 100px, 80px;
+  height: auto;
+}
+.contents-items p {
+  font-size: 30px;
+}
+.contents-items a {
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 250px;
+  padding: 40px;
+}
+.footer div {
+  font-size: 18px;
+}
+
+.footer-logo {
+  float: right;
+}
+.footer-logo a {
+  float: right;
+  padding-left: 10px;
+}
+.image img {
+  height: 500px;
+}
+
+#site-box {
+  width: 10px;
+}
